@@ -71,13 +71,13 @@ Screenshots are located in the project under:
 
 
 ### 🏠 Home Screen
-![Home](Screenshots/1.SakeShops.png)
+![Home](SakeSpot/Screenshots/1.SakeShops.png)
 
 ### 🛍️ Shop Details
-![Details](Screenshots/2.SakeShopDetails.png)
+![Details](SakeSpot/Screenshots/2.SakeShopDetails.png)
 
 ### 🏠 Website View
-![Website](Screenshots/3.SakeShopWebsite.png)
+![Website](SakeSpot/Screenshots/3.SakeShopWebsite.png)
 
 ### 🛍️ Map View 
-![Map](Screenshots/4.SakeShopMapView.png)
+![Map](SakeSpot/Screenshots/4.SakeShopMapView.png)
