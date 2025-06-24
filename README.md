@@ -71,7 +71,9 @@ Screenshots are located in the project under:
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 90%;">
+    <h3>🏠 Home Screen</h3>
     <img src="SakeSpot/Screenshots/1.SakeShops.png" alt="Home Screen" width="45%"/>
+    <h3>🛍️ Shop Details</h3> 
     <img src="SakeSpot/Screenshots/2.SakeShopDetails.png" alt="Details Screen" width="45%"/>
   </div>
 </div>
