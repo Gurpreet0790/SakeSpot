@@ -69,28 +69,18 @@ SakeSpot/
 Screenshots are located in the project under:  
 **`SakeSpot/Screenshots/`**
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <div style="text-align: center; width: 48%;">
-    <h3>🏠 Home Screen</h3>
-    <img src="SakeSpot/Screenshots/1.SakeShops.png" alt="Home Screen" width="100%"/>
-  </div>
-  <div style="text-align: center; width: 48%;">
-    <h3>🛍️ Shop Details</h3>
-    <img src="SakeSpot/Screenshots/2.SakeShopDetails.png" alt="Details Screen" width="100%"/>
-  </div>
+<div style="display: flex; justify-content: space-between;">
+  <h3>🏠 Home Screen</h3>
+  <img src="SakeSpot/Screenshots/1.SakeShops.png" alt="Home Screen" width="35%"/>
+  <h3>🛍️ Shop Details</h3> 
+  <img src="SakeSpot/Screenshots/2.SakeShopDetails.png" alt="Details Screen" width="35%"/>
 </div>
 
-<br/>
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <div style="text-align: center; width: 48%;">
-    <h3>🌐 Website View</h3>
-    <img src="SakeSpot/Screenshots/3.SakeShopWebsite.png" alt="Website View" width="100%"/>
-  </div>
-  <div style="text-align: center; width: 48%;">
-    <h3>🗺️ Map View</h3>
-    <img src="SakeSpot/Screenshots/4.SakeShopMapView.png" alt="Map View" width="100%"/>
-  </div>
+<div style="display: flex; justify-content: space-between;">
+  <h3> Website View</h3>
+  <img src="SakeSpot/Screenshots/3.SakeShopWebsite.png" alt="Home Screen" width="35%"/>
+  <h3> Map View</h3>
+  <img src="SakeSpot/Screenshots/4.SakeShopMapView.png" alt="Details Screen" width="35%"/>
 </div>
 
 
