@@ -69,6 +69,16 @@ SakeSpot/
 Screenshots are located in the project under:  
 **`SakeSpot/Screenshots/`**
 
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 90%;">
+    <img src="SakeSpot/Screenshots/1.SakeShops.png" alt="Home Screen" width="45%"/>
+    <img src="SakeSpot/Screenshots/2.SakeShopDetails.png" alt="Details Screen" width="45%"/>
+  </div>
+</div>
+
+
+
+
 <div style="display: flex; justify-content: space-between;">
   <h3>🏠 Home Screen</h3>
   <img src="SakeSpot/Screenshots/1.SakeShops.png" alt="Home Screen" width="45%"/>
